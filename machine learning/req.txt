@@ -1,0 +1,7 @@
+    pandas
+    numpy
+    scikit-learn
+    google-api-python-client
+    streamlit
+    joblib
+    plotly
