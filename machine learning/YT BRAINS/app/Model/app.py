@@ -10,7 +10,7 @@ import re
 st.set_page_config(page_title="YouTube Prediction Dashboard", layout="wide")
 
 # Load Brain
-YOUTUBE_API_KEY = "AIzaSyDpkvUJUFrbNFFNjizKh5_JW7bq2AMLKuM" 
+YOUTUBE_API_KEY = "enter your api ketyyeyyyyeyyeyyyyeyyeyyeeyey ;<" 
 youtube = build('youtube', 'v3', developerKey=YOUTUBE_API_KEY)
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 model_path = os.path.join(BASE_DIR, 'models/viral.pkl')
